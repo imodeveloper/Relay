@@ -121,7 +121,7 @@ Relay supports installation via **Swift Package Manager**.
 1. In Xcode, select **File > Add Packages**.
 2. Enter the repository URL:
    ```
-   https://github.com/imodeveloperlab/Relay.git
+   https://github.com/imodeveloper/Relay.git
    ```
 3. Choose the version you want to install.
 4. Add the package to your project.
