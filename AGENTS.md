@@ -15,3 +15,11 @@
 ## Validation
 - Run Swift package tests from the repo root when changing package code:
   - `swift test`
+
+## Context And History
+
+- This guide, package source, tests, and path-limited Git history are the default
+  context.
+- Create `Agents Memory/` only if a durable cross-repository contract cannot
+  be expressed clearly in this guide or source.
+- Do not create per-file journals, task transcripts, or an agent changelog.
